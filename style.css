@@ -1,0 +1,20 @@
+/***** Left Sidebar*****/
+#left-col{
+    background-color: rgba(33, 47, 34, 0.76);
+    height: 100vh
+}
+h1 {
+    color: #273672;
+}
+
+.position {
+    color: #d9a20d;
+    font-size: 1.5em;
+}
+
+h2{
+    color: #41337A;
+}
+ul{
+    list-style: none
+}
